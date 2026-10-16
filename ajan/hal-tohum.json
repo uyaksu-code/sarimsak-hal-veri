@@ -1,0 +1,225 @@
+{
+ "tarih": "24.09.2026",
+ "ortalama": 114.26,
+ "min": 45,
+ "max": 200,
+ "ilSayisi": 16,
+ "kaynak": "HaldeFiyat · belediye hal müdürlükleri",
+ "degisim": {
+  "hafta": 0.1,
+  "ay": -2.1,
+  "yil": -4,
+  "ucYil": 100.6
+ },
+ "degisimHal": {
+  "hafta": 16,
+  "ay": 14,
+  "yil": 4,
+  "ucYil": 3
+ },
+ "ulusal": {
+  "ort": 63.72,
+  "t": "26.09.2026",
+  "hacimKg": 155204,
+  "kaynak": "hal.gov.tr (HKS)",
+  "iyiTarim": {
+   "ort": 115.33,
+   "hacimKg": 23947
+  },
+  "taze": {
+   "ort": 43.14,
+   "hacimKg": 8139
+  }
+ },
+ "yoresel": [
+  {
+   "ad": "Kastamonu sarımsağı",
+   "hal": "Çorum",
+   "alt": 100,
+   "ust": 150,
+   "t": "12.08.2026"
+  },
+  {
+   "ad": "Taşköprü sarımsağı",
+   "hal": "Konya",
+   "alt": 130,
+   "ust": 160,
+   "t": "30.03.2026"
+  }
+ ],
+ "iller": [
+  {
+   "il": "Manisa",
+   "ust": 200,
+   "alt": 50,
+   "ort": 125,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "İzmir",
+   "ust": 180,
+   "alt": 130,
+   "ort": 155,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Çanakkale",
+   "ust": 180,
+   "alt": 80,
+   "ort": 130,
+   "t": "22.09.2026",
+   "n": "Yerli"
+  },
+  {
+   "il": "Bursa",
+   "ust": 170,
+   "alt": 45,
+   "ort": 107.5,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Eskişehir",
+   "ust": 160,
+   "alt": 80,
+   "ort": 110.61,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Konya",
+   "ust": 150,
+   "alt": 70,
+   "ort": 110,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Antalya",
+   "ust": 150,
+   "alt": 70,
+   "ort": 110,
+   "t": "23.09.2026",
+   "n": "Yerli"
+  },
+  {
+   "il": "Trabzon",
+   "ust": 150,
+   "alt": 90,
+   "ort": 120,
+   "t": "24.09.2026",
+   "n": "Yerli"
+  },
+  {
+   "il": "Kütahya",
+   "ust": 150,
+   "alt": 80,
+   "ort": 115,
+   "t": "21.09.2026",
+   "n": ""
+  },
+  {
+   "il": "İstanbul",
+   "ust": 141,
+   "alt": 124,
+   "ort": 132.5,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Ankara",
+   "ust": 130,
+   "alt": 60,
+   "ort": 95,
+   "t": "23.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Denizli",
+   "ust": 130,
+   "alt": 100,
+   "ort": 110,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Balıkesir",
+   "ust": 130,
+   "alt": 80,
+   "ort": 105,
+   "t": "23.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Kayseri",
+   "ust": 120,
+   "alt": 65,
+   "ort": 92.5,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Tokat",
+   "ust": 120,
+   "alt": 120,
+   "ort": 120,
+   "t": "22.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Adana",
+   "ust": 100,
+   "alt": 80,
+   "ort": 90,
+   "t": "24.09.2026",
+   "n": ""
+  },
+  {
+   "il": "Kocaeli",
+   "ust": 250,
+   "alt": 100,
+   "ort": 175,
+   "t": "16.09.2026",
+   "n": "",
+   "kaynak": "eski"
+  },
+  {
+   "il": "Mersin",
+   "ust": 120,
+   "alt": 25,
+   "ort": 72.5,
+   "t": "16.09.2026",
+   "n": "",
+   "kaynak": "eski"
+  },
+  {
+   "il": "Malatya",
+   "ust": 110,
+   "alt": 70,
+   "ort": 90,
+   "t": "16.09.2026",
+   "n": "",
+   "kaynak": "eski"
+  },
+  {
+   "il": "Elazığ",
+   "ust": 110,
+   "alt": 90,
+   "ort": 100,
+   "t": "14.09.2026",
+   "n": "",
+   "kaynak": "eski"
+  },
+  {
+   "il": "Gaziantep",
+   "ust": 80,
+   "alt": 50,
+   "ort": 65,
+   "t": "16.09.2026",
+   "n": "",
+   "kaynak": "eski"
+  }
+ ]
+}

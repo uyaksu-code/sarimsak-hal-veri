@@ -1,0 +1,283 @@
+{
+"toplandi": "2026-09-27T14:34:32.519Z",
+"gun": 400,
+"attribution": "Veriler, belediye hal müdürlüklerinin ve resmî kurumların yayımladığı listelerden alınmıştır.",
+"hatalar": [],
+"items": [
+{
+"recordedDate": "2026-09-09",
+"minPrice": 130.0,
+"maxPrice": 180.0,
+"avgPrice": 155.0,
+"avgPriceMethod": "reported",
+"marketSlug": "izmir-hal",
+"cityName": "İzmir",
+"productSlug": "sarimsak-kuru",
+"kanal": "api"
+},
+{
+"recordedDate": "2026-09-10",
+"minPrice": 60.0,
+"maxPrice": 130.0,
+"avgPrice": 95.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "ankara-hal",
+"cityName": "Ankara",
+"productSlug": "sarimsak-kuru",
+"kanal": "api"
+},
+{
+"recordedDate": "2026-09-10",
+"minPrice": 130.0,
+"maxPrice": 180.0,
+"avgPrice": 155.0,
+"avgPriceMethod": "reported",
+"marketSlug": "izmir-hal",
+"cityName": "İzmir",
+"productSlug": "sarimsak-kuru",
+"kanal": "api"
+},
+{
+"recordedDate": "2026-09-11",
+"minPrice": 60.0,
+"maxPrice": 130.0,
+"avgPrice": 95.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "ankara-hal",
+"cityName": "Ankara",
+"productSlug": "sarimsak-kuru",
+"kanal": "api"
+},
+{
+"recordedDate": "2026-09-11",
+"minPrice": 130.0,
+"maxPrice": 180.0,
+"avgPrice": 155.0,
+"avgPriceMethod": "reported",
+"marketSlug": "izmir-hal",
+"cityName": "İzmir",
+"productSlug": "sarimsak-kuru",
+"kanal": "api"
+},
+{
+"recordedDate": "2026-09-18",
+"minPrice": 60.0,
+"maxPrice": 130.0,
+"avgPrice": 95.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "ankara-hal",
+"cityName": "Ankara",
+"productSlug": "sarimsak-kuru",
+"kanal": "api"
+},
+{
+"recordedDate": "2026-09-11",
+"minPrice": 121.0,
+"maxPrice": 151.0,
+"avgPrice": 136.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "istanbul-hal-ibb",
+"cityName": "İstanbul",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 90.0,
+"maxPrice": 120.0,
+"avgPrice": 105.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "konya-hal",
+"cityName": "Konya",
+"productSlug": "sarimsak-ithal",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 90.0,
+"maxPrice": 90.0,
+"avgPrice": 90.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "tokat-hal",
+"cityName": "Tokat",
+"productSlug": "sarimsak",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 80.0,
+"maxPrice": 100.0,
+"avgPrice": 90.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "adana-hal",
+"cityName": "Adana",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 60.0,
+"maxPrice": 130.0,
+"avgPrice": 95.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "ankara-hal",
+"cityName": "Ankara",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 60.0,
+"maxPrice": 195.0,
+"avgPrice": 127.5,
+"avgPriceMethod": "midpoint",
+"marketSlug": "bursa-hal",
+"cityName": "Bursa",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 100.0,
+"maxPrice": 180.0,
+"avgPrice": 120.0,
+"avgPriceMethod": "reported",
+"marketSlug": "denizli-hal",
+"cityName": "Denizli",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 65.0,
+"maxPrice": 120.0,
+"avgPrice": 92.5,
+"avgPriceMethod": "midpoint",
+"marketSlug": "kayseri-hal",
+"cityName": "Kayseri",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 70.0,
+"maxPrice": 150.0,
+"avgPrice": 110.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "konya-hal",
+"cityName": "Konya",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 50.0,
+"maxPrice": 100.0,
+"avgPrice": 75.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "manisa-hal",
+"cityName": "Manisa",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": null,
+"maxPrice": null,
+"avgPrice": 82.9,
+"avgPriceMethod": "reported",
+"marketSlug": "ulusal-hal-gov-tr",
+"cityName": "Türkiye",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 110.0,
+"maxPrice": 150.0,
+"avgPrice": 130.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "kayseri-hal",
+"cityName": "Kayseri",
+"productSlug": "sarimsak-soyulmus",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-12",
+"minPrice": 135.0,
+"maxPrice": 200.0,
+"avgPrice": 167.5,
+"avgPriceMethod": "midpoint",
+"marketSlug": "trabzon-hal",
+"cityName": "Trabzon",
+"productSlug": "sarimsak-yerli",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-11",
+"minPrice": 80.0,
+"maxPrice": 250.0,
+"avgPrice": 165.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "balikesir-hal",
+"cityName": "Balıkesir",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-11",
+"minPrice": 70.0,
+"maxPrice": 130.0,
+"avgPrice": 119.09,
+"avgPriceMethod": "reported",
+"marketSlug": "eskisehir-hal",
+"cityName": "Eskişehir",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-11",
+"minPrice": 130.0,
+"maxPrice": 180.0,
+"avgPrice": 155.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "izmir-hal",
+"cityName": "İzmir",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-11",
+"minPrice": 70.0,
+"maxPrice": 130.0,
+"avgPrice": 100.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "antalya-hal-merkez",
+"cityName": "Antalya",
+"productSlug": "sarimsak-yerli",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-08",
+"minPrice": 80.0,
+"maxPrice": 150.0,
+"avgPrice": 115.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "kutahya-hal",
+"cityName": "Kütahya",
+"productSlug": "sarimsak-kuru",
+"kanal": "sayfa"
+},
+{
+"recordedDate": "2026-09-08",
+"minPrice": 80.0,
+"maxPrice": 180.0,
+"avgPrice": 130.0,
+"avgPriceMethod": "midpoint",
+"marketSlug": "canakkale-hal",
+"cityName": "Çanakkale",
+"productSlug": "sarimsak-yerli",
+"kanal": "sayfa"
+}
+]
+}

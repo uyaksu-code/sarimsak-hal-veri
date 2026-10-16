@@ -1,0 +1,18 @@
+{
+  "name": "sarimsak-hal-veri",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Sarımsak App hal fiyatı ajanı — günlük toplama ve GitHub Pages yayını",
+  "license": "MIT",
+  "scripts": {
+    "topla": "node ajan/toplayici-node.js --cikti ham",
+    "isle": "node ajan/hal-ajan.js --klasor docs",
+    "test": "node test/hal-ajan-test.js && node test/toplayici-node-test.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "linkedom": "0.18.9"
+  }
+}

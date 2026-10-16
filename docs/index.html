@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sarımsak hal fiyatı verisi</title>
+<style>
+  :root { --zemin:#f7f5ef; --yazi:#1f2a1d; --soluk:#5d6b58; --cizgi:#d9d4c6; --yesil:#2f6b2a; --uyari:#a4501c; }
+  @media (prefers-color-scheme: dark) { :root { --zemin:#151a14; --yazi:#e8ebe4; --soluk:#9aa894; --cizgi:#2c3529; --yesil:#8fc58a; --uyari:#e3955f; } }
+  body { margin:0; background:var(--zemin); color:var(--yazi); font:15px/1.5 system-ui, sans-serif; }
+  main { max-width:720px; margin:0 auto; padding:24px 16px 48px; }
+  h1 { font-size:22px; margin:0 0 4px; }
+  .alt { color:var(--soluk); margin:0 0 20px; }
+  .buyuk { font-size:34px; font-weight:700; }
+  table { width:100%; border-collapse:collapse; margin-top:16px; font-variant-numeric:tabular-nums; }
+  th, td { text-align:left; padding:6px 4px; border-bottom:1px solid var(--cizgi); }
+  td.s { text-align:right; }
+  .eski { color:var(--soluk); }
+  .uyari { color:var(--uyari); font-weight:600; }
+  code { font-size:13px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Sarımsak hal fiyatı verisi</h1>
+  <p class="alt">Sarımsak App'in Piyasa ekranı bu adresteki <code>hal-veri.json</code> dosyasını okur. Hal ajanı her gün 10:10 ve 18:10'da günceller.</p>
+  <div id="ozet">Yükleniyor…</div>
+  <table id="tablo" hidden><thead><tr><th>İl</th><th>Alt</th><th>Üst</th><th>Ort.</th><th>Tarih</th></tr></thead><tbody></tbody></table>
+  <p class="alt" style="margin-top:24px">Kaynak: HaldeFiyat (haldefiyat.com) — belediye hal müdürlüklerinin yayımladığı listeler; hal.gov.tr (Ticaret Bakanlığı Hal Kayıt Sistemi). Toptan hal fiyatıdır.
+  Dosyalar: <a href="hal-veri.json">hal-veri.json</a> · <a href="hal-gecmis.csv">hal-gecmis.csv</a> · <a href="ajan-gunluk.log">ajan-gunluk.log</a></p>
+</main>
+<script>
+const e = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+fetch("hal-veri.json?t=" + Date.now()).then(r => r.json()).then(h => {
+  const [g, a, y] = h.tarih.split("."), yas = Math.round((Date.now() - new Date(+y, a - 1, +g)) / 864e5);
+  document.getElementById("ozet").innerHTML =
+    `<div class="buyuk">${e(h.ortalama.toFixed(2))} TL/kg</div>
+     <div>Hal listesi ortası · ${e(h.ilSayisi)} güncel il · veri ${e(h.tarih)}${yas > 3 ? ` <span class="uyari">(${yas} gün önce)</span>` : ""}</div>
+     ${h.ulusal ? `<div>hal.gov.tr gerçekleşen satış ortalaması: ${e(h.ulusal.ort)} TL/kg (${e(h.ulusal.t)})</div>` : ""}
+     <div class="alt">Ajan son kontrol: ${e(h.ajan ? h.ajan.kontrol : "—")}${h.ajan && h.ajan.supheli ? ' · <span class="uyari">şüpheli oynama</span>' : ""}</div>`;
+  const tb = document.querySelector("#tablo tbody");
+  tb.innerHTML = h.iller.map(x => `<tr class="${x.kaynak ? "eski" : ""}"><td>${e(x.il)}${x.kaynak ? " (eski)" : ""}</td><td class="s">${e(x.alt)}</td><td class="s">${e(x.ust)}</td><td class="s">${e(x.ort)}</td><td>${e(x.t)}</td></tr>`).join("");
+  document.getElementById("tablo").hidden = false;
+}).catch(() => { document.getElementById("ozet").textContent = "Veri okunamadı."; });
+</script>
+</body>
+</html>
