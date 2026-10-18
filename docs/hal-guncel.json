@@ -191,13 +191,13 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-17T17:51:33.697Z",
-  "kontrol": "17.10.2026",
+  "calisma": "2026-10-18T12:02:10.090Z",
+  "kontrol": "18.10.2026",
   "tur": "gunluk",
   "kayitSayisi": 77,
   "guncellenen": [],
   "kaynakHatalari": [
-   "2026-10-17-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
+   "2026-10-18-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
   ]
  }
 }
