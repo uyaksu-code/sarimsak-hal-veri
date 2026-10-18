@@ -191,13 +191,13 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-18T12:02:10.090Z",
+  "calisma": "2026-10-18T18:03:57.989Z",
   "kontrol": "18.10.2026",
-  "tur": "gunluk",
+  "tur": "haftalik",
   "kayitSayisi": 77,
   "guncellenen": [],
   "kaynakHatalari": [
-   "2026-10-18-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
+   "2026-10-18-halgov.json: fetch failed"
   ]
  }
 }
