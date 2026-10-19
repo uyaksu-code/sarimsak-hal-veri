@@ -6,7 +6,7 @@
  "ilSayisi": 4,
  "kaynak": "HaldeFiyat · belediye hal müdürlükleri",
  "degisim": {
-  "hafta": -6.4,
+  "hafta": -6.5,
   "ay": -11.9,
   "yil": -4,
   "ucYil": 100.6
@@ -69,7 +69,7 @@
    "ust": 140,
    "alt": 60,
    "ort": 100,
-   "t": "17.10.2026",
+   "t": "19.10.2026",
    "n": ""
   },
   {
@@ -191,14 +191,12 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-19T14:38:30.168Z",
+  "calisma": "2026-10-19T20:33:59.887Z",
   "kontrol": "19.10.2026",
   "tur": "gunluk",
-  "kayitSayisi": 80,
+  "kayitSayisi": 81,
   "guncellenen": [
-   "İzmir",
-   "Bursa",
-   "Konya"
+   "Ankara"
   ],
   "kaynakHatalari": [
    "2026-10-19-halgov.json: fetch failed"
