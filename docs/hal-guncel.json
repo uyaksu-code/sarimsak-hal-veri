@@ -1,5 +1,5 @@
 {
- "tarih": "23.10.2026",
+ "tarih": "24.10.2026",
  "ortalama": 106.88,
  "min": 40,
  "max": 175,
@@ -7,7 +7,7 @@
  "kaynak": "HaldeFiyat · belediye hal müdürlükleri",
  "degisim": {
   "hafta": -1,
-  "ay": -11.9,
+  "ay": -10.4,
   "yil": -4,
   "ucYil": 100.6
  },
@@ -69,7 +69,7 @@
    "ust": 140,
    "alt": 60,
    "ort": 100,
-   "t": "23.10.2026",
+   "t": "24.10.2026",
    "n": ""
   },
   {
@@ -96,15 +96,6 @@
    "ort": 110.61,
    "t": "24.09.2026",
    "n": "",
-   "kaynak": "eski"
-  },
-  {
-   "il": "Antalya",
-   "ust": 150,
-   "alt": 70,
-   "ort": 110,
-   "t": "23.09.2026",
-   "n": "Yerli",
    "kaynak": "eski"
   },
   {
@@ -135,15 +126,6 @@
    "kaynak": "eski"
   },
   {
-   "il": "Balıkesir",
-   "ust": 130,
-   "alt": 80,
-   "ort": 105,
-   "t": "23.09.2026",
-   "n": "",
-   "kaynak": "eski"
-  },
-  {
    "il": "Kayseri",
    "ust": 120,
    "alt": 65,
@@ -164,17 +146,18 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-23T19:09:28.578Z",
-  "kontrol": "23.10.2026",
+  "calisma": "2026-10-24T11:58:06.907Z",
+  "kontrol": "24.10.2026",
   "tur": "gunluk",
-  "kayitSayisi": 93,
+  "kayitSayisi": 94,
   "guncellenen": [
+   "Ankara",
    "Tokat",
    "Kütahya",
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-10-23-halgov.json: fetch failed"
+   "2026-10-24-halgov.json: fetch failed"
   ]
  }
 }
