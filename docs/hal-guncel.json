@@ -146,18 +146,19 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-24T11:58:06.907Z",
+  "calisma": "2026-10-24T18:05:27.089Z",
   "kontrol": "24.10.2026",
   "tur": "gunluk",
   "kayitSayisi": 94,
   "guncellenen": [
-   "Ankara",
    "Tokat",
+   "Balıkesir",
+   "Antalya",
    "Kütahya",
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-10-24-halgov.json: fetch failed"
+   "2026-10-24-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
   ]
  }
 }
