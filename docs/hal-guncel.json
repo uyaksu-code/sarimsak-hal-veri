@@ -83,22 +83,26 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-26T14:12:25.233Z",
+  "calisma": "2026-10-26T20:27:17.069Z",
   "kontrol": "26.10.2026",
   "tur": "gunluk",
   "kayitSayisi": 97,
   "guncellenen": [
-   "İzmir",
-   "Ankara",
-   "Konya",
+   "İstanbul",
    "Tokat",
+   "Adana",
+   "Denizli",
+   "Kayseri",
+   "Manisa",
+   "Trabzon",
    "Balıkesir",
+   "Eskişehir",
    "Antalya",
    "Kütahya",
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-10-26-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
+   "2026-10-26-halgov.json: fetch failed"
   ]
  }
 }
