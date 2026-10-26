@@ -1,13 +1,13 @@
 {
- "tarih": "24.10.2026",
+ "tarih": "26.10.2026",
  "ortalama": 106.88,
  "min": 40,
  "max": 175,
  "ilSayisi": 4,
  "kaynak": "HaldeFiyat · belediye hal müdürlükleri",
  "degisim": {
-  "hafta": -1,
-  "ay": -10.4,
+  "hafta": 0.9,
+  "ay": -10,
   "yil": -4,
   "ucYil": 100.6
  },
@@ -61,7 +61,7 @@
    "ust": 150,
    "alt": 70,
    "ort": 110,
-   "t": "22.10.2026",
+   "t": "26.10.2026",
    "n": ""
   },
   {
@@ -69,7 +69,7 @@
    "ust": 140,
    "alt": 60,
    "ort": 100,
-   "t": "24.10.2026",
+   "t": "26.10.2026",
    "n": ""
   },
   {
@@ -77,80 +77,20 @@
    "ust": 130,
    "alt": 90,
    "ort": 110,
-   "t": "23.10.2026",
+   "t": "26.10.2026",
    "n": ""
-  },
-  {
-   "il": "Manisa",
-   "ust": 200,
-   "alt": 50,
-   "ort": 125,
-   "t": "24.09.2026",
-   "n": "",
-   "kaynak": "eski"
-  },
-  {
-   "il": "Eskişehir",
-   "ust": 160,
-   "alt": 80,
-   "ort": 110.61,
-   "t": "24.09.2026",
-   "n": "",
-   "kaynak": "eski"
-  },
-  {
-   "il": "Trabzon",
-   "ust": 150,
-   "alt": 90,
-   "ort": 120,
-   "t": "24.09.2026",
-   "n": "Yerli",
-   "kaynak": "eski"
-  },
-  {
-   "il": "İstanbul",
-   "ust": 141,
-   "alt": 124,
-   "ort": 132.5,
-   "t": "24.09.2026",
-   "n": "",
-   "kaynak": "eski"
-  },
-  {
-   "il": "Denizli",
-   "ust": 130,
-   "alt": 100,
-   "ort": 110,
-   "t": "24.09.2026",
-   "n": "",
-   "kaynak": "eski"
-  },
-  {
-   "il": "Kayseri",
-   "ust": 120,
-   "alt": 65,
-   "ort": 92.5,
-   "t": "24.09.2026",
-   "n": "",
-   "kaynak": "eski"
-  },
-  {
-   "il": "Adana",
-   "ust": 100,
-   "alt": 80,
-   "ort": 90,
-   "t": "24.09.2026",
-   "n": "",
-   "kaynak": "eski"
   }
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-25T18:23:00.903Z",
-  "kontrol": "25.10.2026",
-  "tur": "haftalik",
-  "kayitSayisi": 94,
+  "calisma": "2026-10-26T14:12:25.233Z",
+  "kontrol": "26.10.2026",
+  "tur": "gunluk",
+  "kayitSayisi": 97,
   "guncellenen": [
+   "İzmir",
+   "Ankara",
+   "Konya",
    "Tokat",
    "Balıkesir",
    "Antalya",
@@ -158,7 +98,7 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-10-25-halgov.json: fetch failed"
+   "2026-10-26-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
   ]
  }
 }
