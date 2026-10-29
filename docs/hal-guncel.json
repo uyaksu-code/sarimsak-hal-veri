@@ -6,8 +6,8 @@
  "ilSayisi": 4,
  "kaynak": "HaldeFiyat · belediye hal müdürlükleri",
  "degisim": {
-  "hafta": -1,
-  "ay": -4.6,
+  "hafta": -1.6,
+  "ay": -5.1,
   "yil": -4,
   "ucYil": 100.6
  },
@@ -83,12 +83,11 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-29T14:13:16.100Z",
+  "calisma": "2026-10-29T20:16:05.625Z",
   "kontrol": "29.10.2026",
   "tur": "gunluk",
   "kayitSayisi": 102,
   "guncellenen": [
-   "Konya",
    "İstanbul",
    "Tokat",
    "Adana",
@@ -103,7 +102,7 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-10-29-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
+   "2026-10-29-halgov.json: fetch failed"
   ]
  }
 }
