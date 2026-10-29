@@ -1,19 +1,19 @@
 {
- "tarih": "28.10.2026",
- "ortalama": 106.88,
+ "tarih": "29.10.2026",
+ "ortalama": 104.38,
  "min": 40,
  "max": 175,
  "ilSayisi": 4,
  "kaynak": "HaldeFiyat · belediye hal müdürlükleri",
  "degisim": {
-  "hafta": 1.4,
-  "ay": -6.7,
+  "hafta": -1,
+  "ay": -4.6,
   "yil": -4,
   "ucYil": 100.6
  },
  "degisimHal": {
-  "hafta": 4,
-  "ay": 4,
+  "hafta": 3,
+  "ay": 3,
   "yil": 4,
   "ucYil": 3
  },
@@ -59,9 +59,9 @@
   {
    "il": "Konya",
    "ust": 150,
-   "alt": 70,
-   "ort": 110,
-   "t": "26.10.2026",
+   "alt": 50,
+   "ort": 100,
+   "t": "29.10.2026",
    "n": ""
   },
   {
@@ -83,11 +83,12 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-10-28T20:14:36.908Z",
-  "kontrol": "28.10.2026",
+  "calisma": "2026-10-29T14:13:16.100Z",
+  "kontrol": "29.10.2026",
   "tur": "gunluk",
-  "kayitSayisi": 101,
+  "kayitSayisi": 102,
   "guncellenen": [
+   "Konya",
    "İstanbul",
    "Tokat",
    "Adana",
@@ -102,7 +103,7 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-10-28-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
+   "2026-10-29-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
   ]
  }
 }
