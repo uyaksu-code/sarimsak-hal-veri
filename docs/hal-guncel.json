@@ -84,7 +84,7 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-11-07T13:56:49.768Z",
+  "calisma": "2026-11-07T19:23:14.814Z",
   "kontrol": "07.11.2026",
   "tur": "gunluk",
   "kayitSayisi": 116,
@@ -103,7 +103,7 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-11-07-halgov.json: fetch failed"
+   "2026-11-07-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
   ]
  }
 }
