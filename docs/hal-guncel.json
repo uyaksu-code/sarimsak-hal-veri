@@ -84,9 +84,9 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-11-07T19:23:14.814Z",
-  "kontrol": "07.11.2026",
-  "tur": "gunluk",
+  "calisma": "2026-11-08T14:16:23.780Z",
+  "kontrol": "08.11.2026",
+  "tur": "haftalik",
   "kayitSayisi": 116,
   "guncellenen": [
    "İstanbul",
@@ -103,7 +103,7 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-11-07-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
+   "2026-11-08-halgov.json: fetch failed"
   ]
  }
 }
