@@ -6,8 +6,8 @@
  "ilSayisi": 3,
  "kaynak": "HaldeFiyat · belediye hal müdürlükleri",
  "degisim": {
-  "hafta": -1.4,
-  "ay": -8.2,
+  "hafta": -1.2,
+  "ay": -8,
   "yil": -4,
   "ucYil": 100.6
  },
@@ -84,13 +84,11 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-11-10T15:33:08.170Z",
-  "kontrol": "10.11.2026",
+  "calisma": "2026-11-10T21:16:23.833Z",
+  "kontrol": "11.11.2026",
   "tur": "gunluk",
   "kayitSayisi": 121,
   "guncellenen": [
-   "İzmir",
-   "Ankara",
    "İstanbul",
    "Tokat",
    "Adana",
@@ -105,7 +103,7 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-11-10-halgov.json: fetch failed"
+   "2026-11-11-halgov.json: fetch failed"
   ]
  }
 }
