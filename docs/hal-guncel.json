@@ -6,8 +6,8 @@
  "ilSayisi": 3,
  "kaynak": "HaldeFiyat · belediye hal müdürlükleri",
  "degisim": {
-  "hafta": 1.7,
-  "ay": -6.8,
+  "hafta": 1.8,
+  "ay": -6.7,
   "yil": -4,
   "ucYil": 100.6
  },
@@ -84,10 +84,10 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-11-12T21:49:49.602Z",
+  "calisma": "2026-11-13T15:20:25.556Z",
   "kontrol": "13.11.2026",
   "tur": "gunluk",
-  "kayitSayisi": 126,
+  "kayitSayisi": 22,
   "guncellenen": [
    "İstanbul",
    "Tokat",
@@ -103,7 +103,8 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-11-13-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
+   "2026-11-13.json: api: HTTP 500",
+   "2026-11-13-halgov.json: fetch failed"
   ]
  }
 }
