@@ -81,3 +81,4 @@
 2026-11-16T16:58:16.000Z  HATA kaynak · iki kaynak da alınamadı · hal-veri.json değiştirilmedi
 2026-11-16T23:43:46.000Z  HATA kaynak · iki kaynak da alınamadı · hal-veri.json değiştirilmedi
 2026-11-17T16:51:39.000Z  HATA kaynak · iki kaynak da alınamadı · hal-veri.json değiştirilmedi
+2026-11-17T22:52:27.167Z  TAMAM gunluk · veri 12.11.2026 · 3 güncel il · ort 101.67 TL/kg · güncellenen: İstanbul,Tokat,Adana,Denizli,Kayseri,Manisa,Trabzon,Balıkesir,Eskişehir,Antalya,Kütahya,Çanakkale · csv +0 · kaynak hatası: 2026-11-18.json: api: HTTP 500 / 2026-11-18-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi
