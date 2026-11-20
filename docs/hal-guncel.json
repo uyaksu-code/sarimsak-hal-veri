@@ -84,8 +84,8 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-11-20T16:06:09.102Z",
-  "kontrol": "20.11.2026",
+  "calisma": "2026-11-20T22:14:37.303Z",
+  "kontrol": "21.11.2026",
   "tur": "gunluk",
   "kayitSayisi": 22,
   "guncellenen": [
@@ -103,8 +103,8 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-11-20.json: api: HTTP 500",
-   "2026-11-20-halgov.json: fetch failed"
+   "2026-11-21.json: api: HTTP 500",
+   "2026-11-21-halgov.json: gvFiyatlar tablosu yok — sayfa yapısı değişmiş ya da erişim engellendi"
   ]
  }
 }
