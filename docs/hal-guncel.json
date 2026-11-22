@@ -84,9 +84,9 @@
  ],
  "ajan": {
   "surum": "1.3.0",
-  "calisma": "2026-11-22T15:15:26.576Z",
-  "kontrol": "22.11.2026",
-  "tur": "haftalik",
+  "calisma": "2026-11-22T21:02:15.814Z",
+  "kontrol": "23.11.2026",
+  "tur": "gunluk",
   "kayitSayisi": 22,
   "guncellenen": [
    "İstanbul",
@@ -103,8 +103,8 @@
    "Çanakkale"
   ],
   "kaynakHatalari": [
-   "2026-11-22-haftalik.json: api: HTTP 500",
-   "2026-11-22-halgov.json: fetch failed"
+   "2026-11-23.json: api: HTTP 500",
+   "2026-11-23-halgov.json: fetch failed"
   ]
  }
 }
